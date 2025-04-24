@@ -1,0 +1,5 @@
+scapy
+pydub
+numpy
+noisereduce
+scipy
